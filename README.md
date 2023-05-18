@@ -3,6 +3,12 @@
   <img src="https://media.giphy.com/media/OF0yOAufcWLfi/giphy.gif" alt="Cool GIF">
 </p>
 
+
+Hello! 👋 I'm Bahadir, a passionate tester who loves creating with Java and Python. I thrive on ensuring quality and reliability through comprehensive testing.
+
+Let's collaborate and build remarkable projects together! 🚀
+
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
