@@ -1,5 +1,7 @@
 
-![Cool GIF](https://media.giphy.com/media/OF0yOAufcWLfi/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/OF0yOAufcWLfi/giphy.gif" alt="Cool GIF">
+</p>
 
 ### Languages
 
